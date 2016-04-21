@@ -3,7 +3,7 @@ package cloudinary
 import (
 	"net/url"
 
-	gocloud "github.com/gotsunami/go-cloudinary"
+	gocloud "github.com/WitzHsiao/go-cloudinary"
 	"golang.org/x/net/context"
 )
 
